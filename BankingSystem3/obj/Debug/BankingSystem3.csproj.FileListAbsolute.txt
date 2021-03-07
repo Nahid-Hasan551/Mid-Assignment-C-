@@ -1,0 +1,14 @@
+C:\Users\nahid\source\repos\BankingSystem3\obj\Debug\BankingSystem3.csprojAssemblyReference.cache
+C:\Users\nahid\source\repos\BankingSystem3\obj\Debug\BankingSystem3.csproj.CoreCompileInputs.cache
+C:\Users\nahid\source\repos\BankingSystem3\bin\Debug\BankingSystem3.exe.config
+C:\Users\nahid\source\repos\BankingSystem3\bin\Debug\BankingSystem3.exe
+C:\Users\nahid\source\repos\BankingSystem3\bin\Debug\BankingSystem3.pdb
+C:\Users\nahid\source\repos\BankingSystem3\obj\Debug\BankingSystem3.exe
+C:\Users\nahid\source\repos\BankingSystem3\obj\Debug\BankingSystem3.pdb
+E:\ASSingmentC#_2\BankingSystem3\bin\Debug\BankingSystem3.exe.config
+E:\ASSingmentC#_2\BankingSystem3\bin\Debug\BankingSystem3.exe
+E:\ASSingmentC#_2\BankingSystem3\bin\Debug\BankingSystem3.pdb
+E:\ASSingmentC#_2\BankingSystem3\obj\Debug\BankingSystem3.csprojAssemblyReference.cache
+E:\ASSingmentC#_2\BankingSystem3\obj\Debug\BankingSystem3.csproj.CoreCompileInputs.cache
+E:\ASSingmentC#_2\BankingSystem3\obj\Debug\BankingSystem3.exe
+E:\ASSingmentC#_2\BankingSystem3\obj\Debug\BankingSystem3.pdb
